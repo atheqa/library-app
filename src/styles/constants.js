@@ -2,11 +2,11 @@
 
 export const colors = {
   // color scheme
-  light: '#293535',
-  paleGreen: '#556e68',
+  dark: '#293535',
+  midGreen: '#556e68',
   green: '#7c9e9d',
-  midGreen: '#b6cdc7',
-  dark: '#e5e6e1',
+  paleGreen: '#b6cdc7',
+  light: '#e5e6e1',
 };
 
 // fonts
